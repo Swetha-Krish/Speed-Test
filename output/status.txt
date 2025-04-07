@@ -1,0 +1,2 @@
+Trial for time: 03:25 completed
+{'Date': datetime.date(2025, 4, 7), 'Time': '03:25', 'Download': 3286.4, 'Upload': 792.59}
